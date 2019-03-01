@@ -1,4 +1,4 @@
-# 🌺https://claraharguindey.github.io/i-m-not-really-sad-but-i-love-aesthetic-sadness/
+🌺https://claraharguindey.github.io/i-m-not-really-sad-but-i-love-aesthetic-sadness/
 ![](https://media.giphy.com/media/mntbnokFbvJtSQKclG/giphy.gif)
 
 ## 𝔬𝔣 𝔠𝔬𝔲𝔯𝔰𝔢 𝔦'𝔪 𝔫𝔬𝔱 𝔯𝔢𝔞𝔩𝔩𝔶 𝔰𝔞𝔡.
