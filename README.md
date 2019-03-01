@@ -1,9 +1,9 @@
 # i-m-not-really-sad-but-i-love-aesthetic-sadness
 
-# 𝔬𝔣 𝔠𝔬𝔲𝔯𝔰𝔢 𝔦'𝔪 𝔫𝔬𝔱 𝔯𝔢𝔞𝔩𝔩𝔶 𝔰𝔞𝔡.
+## 𝔬𝔣 𝔠𝔬𝔲𝔯𝔰𝔢 𝔦'𝔪 𝔫𝔬𝔱 𝔯𝔢𝔞𝔩𝔩𝔶 𝔰𝔞𝔡.
 ##  (𝓌𝑒𝓁𝓁, 𝓂𝒶𝓎𝒷𝑒 𝒶 𝓁𝒾𝓉𝓉𝓁𝑒)
-# ｗｈａｔｅｖｅｒ！
-# I just wanted to try p5.js library so i made this.
+## ｗｈａｔｅｖｅｒ！
+## I just wanted to try p5.js library so i made this.
 
 
 ![alt text](https://i.pinimg.com/564x/60/64/5f/60645f59f8eb89758ab6d139aef3831c.jpg)
