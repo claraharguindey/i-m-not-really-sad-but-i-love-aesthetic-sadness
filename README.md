@@ -1,6 +1,4 @@
 
-![](https://media.giphy.com/media/mntbnokFbvJtSQKclG/giphy.gif)
-
 ## 𝔬𝔣 𝔠𝔬𝔲𝔯𝔰𝔢 𝔦'𝔪 𝔫𝔬𝔱 𝔯𝔢𝔞𝔩𝔩𝔶 𝔰𝔞𝔡.
 ##  (𝓌𝑒𝓁𝓁, 𝓂𝒶𝓎𝒷𝑒 𝒶 𝓁𝒾𝓉𝓉𝓁𝑒)
 ## ｗｈａｔｅｖｅｒ！
